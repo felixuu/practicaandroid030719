@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">insetardatos</string>
+    <string name="txt1">INSETA TUS DATOS</string>
+    <string name="txt2">NOMBRE</string>
+    <string name="txt3">APELLIDOS</string>
+    <string name="txt4">CONTRASEÑA</string>
+
+</resources>
